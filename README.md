@@ -44,7 +44,8 @@ This project showcases the development of a custom chatbot using Amazon Lex, des
 
 - **Author:** Kanika Mathur  
 - **GitHub**: [KanikaGenesis](https://github.com/KanikaGenesis)
-
+- **LinkedIn**: [Kanika Mathur](https://www.linkedin.com/in/kanika-mathur-083080121)
+  
 ## Final Thoughts
 
 This project highlights the importance of customizing and optimizing chatbots to meet specific user needs. By implementing features like custom slot types and context carryover, we can significantly enhance the user experience and provide more accurate and efficient responses. The next steps include further refining these features and exploring additional functionalities to make the chatbot even more versatile and user-friendly.
